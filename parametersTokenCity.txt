@@ -1,0 +1,1 @@
+[{'id': 3477, 'name': 'São Paulo', 'state': 'SP', 'country': 'BR  ', 'token': '6c735cf4dafce2dc37c791303a49a3a2'}];[{'id': 3477, 'name': 'São Paulo', 'state': 'SP', 'country': 'BR  ', 'token': '9c05e35bec9c4444a0cc7472e5884574'}];[{'id': 3477, 'name': 'São Paulo', 'state': 'SP', 'country': 'BR  ', 'token': '1e8fd810c926a784ce562bb6fe6da1b9'}];
